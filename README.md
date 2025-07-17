@@ -1,4 +1,4 @@
-# LMS Patel MERN Stack
+# LMS StackLoom MERN Stack
 
 A full-featured Learning Management System (LMS) built with the MERN stack (MongoDB, Express, React, Node.js). This project allows instructors to create and manage courses, students to enroll and track progress, and includes payment integration, media uploads, and more.
 
