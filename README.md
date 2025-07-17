@@ -57,7 +57,6 @@ cd lms-project-mern
 ### 2. Install Dependencies
 
 ```sh
-cd server
 npm install
 cd ../client
 npm install
@@ -81,7 +80,6 @@ PORT=8080
 ### 4. Start the Server
 
 ```sh
-cd server
 npm run dev
 ```
 
