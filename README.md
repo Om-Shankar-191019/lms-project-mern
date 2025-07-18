@@ -1,5 +1,7 @@
 # LMS StackLoom MERN Stack
 
+**Live Demo:** [https://lms-project-mern.onrender.com/](https://lms-project-mern.onrender.com/)
+
 A full-featured Learning Management System (LMS) built with the MERN stack (MongoDB, Express, React, Node.js). This project allows instructors to create and manage courses, students to enroll and track progress, and includes payment integration, media uploads, and more.
 
 ---
